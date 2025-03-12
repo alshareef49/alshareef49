@@ -5,10 +5,6 @@
 
 - 🔭 I’m currently working as **Java Developer**
 
-- 🌱 I’m currently learning **Docker**
-
-- 💬 Ask me about **Spring,Angular**
-
 - 📫 How to reach me **alamshareef4039@gmail.com**
 
 <p align="left">
